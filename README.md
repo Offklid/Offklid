@@ -4,7 +4,7 @@
 I am a **Java Backend Developer** focused on building scalable architectures. Currently, I am bridging the gap between development and quality by mastering **Test Automation (SDET)**.
 
 - 🏢 **Currently:** Engineering corporate backend solutions with Java & Spring.
-- 🧪 **Learning:** Advanced Automation Testing with Selenium and Python.
+- 🧪 **Learning:** Advanced Automation Testing with Selenium, Java and TestNG.
 - 🚀 **Mission:** Creating clean, well-tested code and exploring new tech horizons.
 
 ---
